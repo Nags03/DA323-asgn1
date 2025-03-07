@@ -1,0 +1,21 @@
+city,timestamp,temperature,humidity,wind_speed,weather_condition,weather_description
+Mumbai,2025-03-07 23:56:47,28.06,47,2.41,Clear,clear sky
+Delhi,2025-03-07 23:56:48,21.28,20,2.83,Clear,clear sky
+Bangalore,2025-03-07 23:56:48,22.46,22,3.66,Clear,clear sky
+Hyderabad,2025-03-07 23:56:48,24.92,12,1.24,Clear,clear sky
+Chennai,2025-03-07 23:56:48,25.81,68,4.12,Clouds,few clouds
+Kolkata,2025-03-07 23:56:48,21.33,58,3.7,Clear,clear sky
+Jaipur,2025-03-07 23:56:49,20.52,22,3.33,Clear,clear sky
+Ahmedabad,2025-03-07 23:56:49,27.63,19,2.86,Clear,clear sky
+Pune,2025-03-07 23:56:49,25.6,15,1.67,Clear,clear sky
+Surat,2025-03-07 23:56:49,27.24,32,3.67,Clear,clear sky
+Lucknow,2025-03-07 23:56:49,20.34,16,0.97,Clear,clear sky
+Kanpur,2025-03-07 23:56:50,20.37,17,1.91,Clear,clear sky
+Nagpur,2025-03-07 23:56:50,24.44,15,0.52,Clear,clear sky
+Indore,2025-03-07 23:56:50,23.32,16,2.46,Clear,clear sky
+Thane,2025-03-07 23:56:50,27.85,28,1.26,Clear,clear sky
+Bhopal,2025-03-07 23:56:51,23.81,17,0.3,Clear,clear sky
+Visakhapatnam,2025-03-07 23:56:51,24.89,80,2.29,Clear,clear sky
+Patna,2025-03-07 23:56:51,18.98,28,0.69,Clear,clear sky
+Vadodara,2025-03-07 23:56:51,27.14,19,1.87,Clear,clear sky
+Ghaziabad,2025-03-07 23:56:51,20.89,21,3.18,Clear,clear sky
