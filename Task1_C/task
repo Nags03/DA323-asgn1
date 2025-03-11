@@ -1,0 +1,4 @@
+ C. Audio Dataset Collection
+ (a) Identify online AM/FM radio stations that stream publicly available audio.
+ (b) Implement an automated script to record and store audio streams for a given duration (30 − 90 s).
+ (c) Save 30 audio files in WAV/MP3 format and store metadata such as station name, timestamp, and duration.
