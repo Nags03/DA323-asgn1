@@ -1,0 +1,5 @@
+ B. Text Dataset Collection
+ (a) List 20 different categories of your choice. Select three websites for each of the categories.
+ (b) Implement a web crawler to extract relevant text (e.g., article titles, content, publication date) from the above websites for each of the 20 categories.
+ (c) Store the collected text data for each category into a text file (that, is make 20 text files for 20 categories).
+ (d) Clean the text using NLP preprocessing techniques (e.g.,removing HTML tags, punctuation, stop words).
