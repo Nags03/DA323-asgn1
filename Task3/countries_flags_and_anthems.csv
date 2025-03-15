@@ -1,0 +1,101 @@
+country_code,country_name,flag_path,anthem_music_path,anthem_text_path
+na,Namibia,flag_images\na.jpg,anthems_music\na.mp3,anthems_text\na.txt
+iq,Iraq,flag_images\iq.jpg,anthems_music\iq.mp3,anthems_text\iq.txt
+ki,Kiribati,flag_images\ki.jpg,anthems_music\ki.mp3,anthems_text\ki.txt
+vn,Vietnam,flag_images\vn.jpg,anthems_music\vn.mp3,anthems_text\vn.txt
+sn,Senegal,flag_images\sn.jpg,anthems_music\sn.mp3,anthems_text\sn.txt
+tg,Togo,flag_images\tg.jpg,anthems_music\tg.mp3,anthems_text\tg.txt
+pe,Peru,flag_images\pe.jpg,anthems_music\pe.mp3,anthems_text\pe.txt
+my,Malaysia,flag_images\my.jpg,anthems_music\my.mp3,anthems_text\my.txt
+eg,Egypt,flag_images\eg.jpg,anthems_music\eg.mp3,anthems_text\eg.txt
+kg,Kyrgyzstan,flag_images\kg.jpg,anthems_music\kg.mp3,anthems_text\kg.txt
+lr,Liberia,flag_images\lr.jpg,anthems_music\lr.mp3,anthems_text\lr.txt
+il,Israel,flag_images\il.jpg,anthems_music\il.mp3,anthems_text\il.txt
+nu,Niue,flag_images\nu.jpg,anthems_music\nu.mp3,anthems_text\nu.txt
+mh,Marshall Islands,flag_images\mh.jpg,anthems_music\mh.mp3,anthems_text\mh.txt
+eh,Western Sahara,flag_images\eh.jpg,anthems_music\eh.mp3,anthems_text\eh.txt
+ph,Philippines,flag_images\ph.jpg,anthems_music\ph.mp3,anthems_text\ph.txt
+sc,Seychelles,flag_images\sc.jpg,anthems_music\sc.mp3,anthems_text\sc.txt
+cn,China (People's Republic of China),flag_images\cn.jpg,anthems_music\cn.mp3,anthems_text\cn.txt
+cv,Cape Verde,flag_images\cv.jpg,anthems_music\cv.mp3,anthems_text\cv.txt
+hn,Honduras,flag_images\hn.jpg,anthems_music\hn.mp3,anthems_text\hn.txt
+kh,Cambodia,flag_images\kh.jpg,anthems_music\kh.mp3,anthems_text\kh.txt
+tj,Tajikistan,flag_images\tj.jpg,anthems_music\tj.mp3,anthems_text\tj.txt
+mx,Mexico,flag_images\mx.jpg,anthems_music\mx.mp3,anthems_text\mx.txt
+mg,Madagascar,flag_images\mg.jpg,anthems_music\mg.mp3,anthems_text\mg.txt
+om,Oman,flag_images\om.jpg,anthems_music\om.mp3,anthems_text\om.txt
+bj,Benin,flag_images\bj.jpg,anthems_music\bj.mp3,anthems_text\bj.txt
+tk,Tokelau,flag_images\tk.jpg,anthems_music\tk.mp3,anthems_text\tk.txt
+cf,Central African Republic,flag_images\cf.jpg,anthems_music\cf.mp3,anthems_text\cf.txt
+td,Chad,flag_images\td.jpg,anthems_music\td.mp3,anthems_text\td.txt
+py,Paraguay,flag_images\py.jpg,anthems_music\py.mp3,anthems_text\py.txt
+ie,Ireland,flag_images\ie.jpg,anthems_music\ie.mp3,anthems_text\ie.txt
+pg,Papua New Guinea,flag_images\pg.jpg,anthems_music\pg.mp3,anthems_text\pg.txt
+za,South Africa,flag_images\za.jpg,anthems_music\za.mp3,anthems_text\za.txt
+ng,Nigeria,flag_images\ng.jpg,anthems_music\ng.mp3,anthems_text\ng.txt
+cz,Czech Republic,flag_images\cz.jpg,anthems_music\cz.mp3,anthems_text\cz.txt
+li,Liechtenstein,flag_images\li.jpg,anthems_music\li.mp3,anthems_text\li.txt
+bn,Brunei Darussalam,flag_images\bn.jpg,anthems_music\bn.mp3,anthems_text\bn.txt
+sz,Kingdom of Eswatini,flag_images\sz.jpg,anthems_music\sz.mp3,anthems_text\sz.txt
+ge,Georgia,flag_images\ge.jpg,anthems_music\ge.mp3,anthems_text\ge.txt
+ga,Gabon,flag_images\ga.jpg,anthems_music\ga.mp3,anthems_text\ga.txt
+kz,Kazakhstan,flag_images\kz.jpg,anthems_music\kz.mp3,anthems_text\kz.txt
+sl,Sierra Leone,flag_images\sl.jpg,anthems_music\sl.mp3,anthems_text\sl.txt
+bt,Bhutan,flag_images\bt.jpg,anthems_music\bt.mp3,anthems_text\bt.txt
+sa,Saudi Arabia,flag_images\sa.jpg,anthems_music\sa.mp3,anthems_text\sa.txt
+kp,"Korea, Democratic People's Republic of",flag_images\kp.jpg,anthems_music\kp.mp3,anthems_text\kp.txt
+va,Holy See (Vatican City State),flag_images\va.jpg,anthems_music\va.mp3,anthems_text\va.txt
+im,Isle of Man,flag_images\im.jpg,anthems_music\im.mp3,anthems_text\im.txt
+cm,Cameroon,flag_images\cm.jpg,anthems_music\cm.mp3,anthems_text\cm.txt
+fr,France,flag_images\fr.jpg,anthems_music\fr.mp3,anthems_text\fr.txt
+tt,Trinidad and Tobago,flag_images\tt.jpg,anthems_music\tt.mp3,anthems_text\tt.txt
+mu,Mauritius,flag_images\mu.jpg,anthems_music\mu.mp3,anthems_text\mu.txt
+gm,Gambia,flag_images\gm.jpg,anthems_music\gm.mp3,anthems_text\gm.txt
+re,Réunion,flag_images\re.jpg,anthems_music\re.mp3,anthems_text\re.txt
+mr,Mauritania,flag_images\mr.jpg,anthems_music\mr.mp3,anthems_text\mr.txt
+ad,Andorra,flag_images\ad.jpg,anthems_music\ad.mp3,anthems_text\ad.txt
+uy,Uruguay,flag_images\uy.jpg,anthems_music\uy.mp3,anthems_text\uy.txt
+id,Indonesia,flag_images\id.jpg,anthems_music\id.mp3,anthems_text\id.txt
+ca,Canada,flag_images\ca.jpg,anthems_music\ca.mp3,anthems_text\ca.txt
+ni,Nicaragua,flag_images\ni.jpg,anthems_music\ni.mp3,anthems_text\ni.txt
+me,Montenegro,flag_images\me.jpg,anthems_music\me.mp3,anthems_text\me.txt
+vc,Saint Vincent and the Grenadines,flag_images\vc.jpg,anthems_music\vc.mp3,anthems_text\vc.txt
+bs,Bahamas,flag_images\bs.jpg,anthems_music\bs.mp3,anthems_text\bs.txt
+ke,Kenya,flag_images\ke.jpg,anthems_music\ke.mp3,anthems_text\ke.txt
+ck,Cook Islands,flag_images\ck.jpg,anthems_music\ck.mp3,anthems_text\ck.txt
+am,Armenia,flag_images\am.jpg,anthems_music\am.mp3,anthems_text\am.txt
+cu,Cuba,flag_images\cu.jpg,anthems_music\cu.mp3,anthems_text\cu.txt
+mw,Malawi,flag_images\mw.jpg,anthems_music\mw.mp3,anthems_text\mw.txt
+hu,Hungary,flag_images\hu.jpg,anthems_music\hu.mp3,anthems_text\hu.txt
+sk,Slovakia,flag_images\sk.jpg,anthems_music\sk.mp3,anthems_text\sk.txt
+zw,Zimbabwe,flag_images\zw.jpg,anthems_music\zw.mp3,anthems_text\zw.txt
+fk,Falkland Islands (Malvinas),flag_images\fk.jpg,anthems_music\fk.mp3,anthems_text\fk.txt
+de,Germany,flag_images\de.jpg,anthems_music\de.mp3,anthems_text\de.txt
+tr,Republic of Türkiye,flag_images\tr.jpg,anthems_music\tr.mp3,anthems_text\tr.txt
+er,Eritrea,flag_images\er.jpg,anthems_music\er.mp3,anthems_text\er.txt
+so,Somalia,flag_images\so.jpg,anthems_music\so.mp3,anthems_text\so.txt
+tz,"Tanzania, United Republic of",flag_images\tz.jpg,anthems_music\tz.mp3,anthems_text\tz.txt
+pn,Pitcairn,flag_images\pn.jpg,anthems_music\pn.mp3,anthems_text\pn.txt
+ye,Yemen,flag_images\ye.jpg,anthems_music\ye.mp3,anthems_text\ye.txt
+bm,Bermuda,flag_images\bm.jpg,anthems_music\bm.mp3,anthems_text\bm.txt
+gg,Guernsey,flag_images\gg.jpg,anthems_music\gg.mp3,anthems_text\gg.txt
+ae,United Arab Emirates,flag_images\ae.jpg,anthems_music\ae.mp3,anthems_text\ae.txt
+sy,Syrian Arab Republic,flag_images\sy.jpg,anthems_music\sy.mp3,anthems_text\sy.txt
+bd,Bangladesh,flag_images\bd.jpg,anthems_music\bd.mp3,anthems_text\bd.txt
+gn,Guinea,flag_images\gn.jpg,anthems_music\gn.mp3,anthems_text\gn.txt
+mt,Malta,flag_images\mt.jpg,anthems_music\mt.mp3,anthems_text\mt.txt
+dj,Djibouti,flag_images\dj.jpg,anthems_music\dj.mp3,anthems_text\dj.txt
+mn,Mongolia,flag_images\mn.jpg,anthems_music\mn.mp3,anthems_text\mn.txt
+sr,Suriname,flag_images\sr.jpg,anthems_music\sr.mp3,anthems_text\sr.txt
+co,Colombia,flag_images\co.jpg,anthems_music\co.mp3,anthems_text\co.txt
+kw,Kuwait,flag_images\kw.jpg,anthems_music\kw.mp3,anthems_text\kw.txt
+pr,Puerto Rico,flag_images\pr.jpg,anthems_music\pr.mp3,anthems_text\pr.txt
+tv,Tuvalu,flag_images\tv.jpg,anthems_music\tv.mp3,anthems_text\tv.txt
+jm,Jamaica,flag_images\jm.jpg,anthems_music\jm.mp3,anthems_text\jm.txt
+uz,Uzbekistan,flag_images\uz.jpg,anthems_music\uz.mp3,anthems_text\uz.txt
+km,Comoros,flag_images\km.jpg,anthems_music\km.mp3,anthems_text\km.txt
+et,Ethiopia,flag_images\et.jpg,anthems_music\et.mp3,anthems_text\et.txt
+az,Azerbaijan,flag_images\az.jpg,anthems_music\az.mp3,anthems_text\az.txt
+bz,Belize,flag_images\bz.jpg,anthems_music\bz.mp3,anthems_text\bz.txt
+ar,Argentina,flag_images\ar.jpg,anthems_music\ar.mp3,anthems_text\ar.txt
+md,"Moldova, Republic of",flag_images\md.jpg,anthems_music\md.mp3,anthems_text\md.txt
