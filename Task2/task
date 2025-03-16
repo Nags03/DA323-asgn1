@@ -1,0 +1,12 @@
+Task: Search for a match
+We generated simulations of a ball following projectile motion inside a 2D rectangular frame. 
+These simulations produced videos depicting the ball’s movement within the frame, accompanied by an audio track correlated with the motion. An example can be seen at: https://www.youtube.com/watch?v=9acydOSvVj4.
+After generating 45 such videos, we provide you with a dataset containing audio and (muted) video tracks. Your task is to match each audio track with its corresponding muted video. The dataset (.zip file) includes the following folders:
+  • audio_only: Contains 45 audio files (.wav) named as audio_only_<ID>_.wav.
+  • video_only: Contains 45 video files (.mp4) named as video_only_<ID>_.mp4.
+ Your task is to match the audio files in the audio_only folder with the corresponding video files in the video_only folder. 
+The final matches should be submitted as a CSV file with two columns.
+The required format is provided inside the dataset folder.
+The dataset is available at: https://drive.google.com/file/d/1dyngJ3voqZkaqVOSx7p38BE-cJFGeEMG/view
+To accomplish this, design and implement a computational approach that analyzes visual features in the videos and matches them with acoustic features extracted from the audio files. 
+This challenge reflects real-world problems in multimodal data analysis, offering an engaging and intellectually stimulating experience.
